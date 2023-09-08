@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>Linkedinn-svg</title>
+	<defs>
+		<image  width="256" height="256" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAAAAApWe5zwAAAAJ0Uk5TAP9bkSK1AAABSElEQVR4nO3asQ3DIBAFUEcpUmYERmE0MppHyQgpXViQYETsKNz/SLZcfbf3irvDFZ9hWD6f/r552Hy3/3pKzw0ILRDX+rVVT2n8gnsbvL6g0eJvm+16SnCG7RxGC2sTRgtrE8ECkfRYuzTWlL8RD1HHMIeoYzgbTHjKOmewQSRTljkvCDzwGsoiwBrKIsAayiIocAhMeE9lUwGB2ANQfVklA3DTedcUwKPIh0EBPKt8WhTAs8qnRYHDYDoAeAzmM0DAIJ4BcP3zUwoICAgICAgICAgICAgICAgICAgINEHA9VNuOD0Gp9z0OgyOuNDef+u+/+Z/f/qwPwEhP2VPTBNQPfZkSRQ4BKZDEjEautHYjgZ/cJV94aO3wdwXgNIIlYawNMYFc/ZGyd4CNYymcbbZ5Vgjc9JjRyhPY336MIA+LeCPE8DzhjeTiHJtW2SnaAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<path id="Layer" class="s0" d="m0 60c0-33.1 26.9-60 60-60h136c33.1 0 60 26.9 60 60v136c0 33.1-26.9 60-60 60h-136c-33.1 0-60-26.9-60-60z"/>
+	<use id="Layer" href="#img1" x="0" y="0"/>
+	<path id="Layer" class="s0" d="m184.7 217.7h29.3c2.2 0 4-1.8 4-4v-61.9c0-32.3-7-57.1-44.7-57.1-14.4-0.6-27.9 6.8-35.2 19.2q-0.1 0.2-0.3 0.2c-0.2 0-0.3-0.2-0.3-0.4v-12c0-2.2-1.8-4-4-4h-27.8c-2.2 0-4 1.8-4 4v112c0 2.2 1.8 4 4 4h29.3c2.2 0 4-1.8 4-4v-55.4c0-15.6 2.9-30.8 22.3-30.8 19.2 0 19.4 17.9 19.4 31.8v54.4c0 2.2 1.8 4 4 4z"/>
+	<path id="Layer" class="s0" d="m38 59.6c0 11.9 9.8 21.7 21.6 21.7 11.9 0 21.7-9.8 21.7-21.7 0-11.8-9.8-21.6-21.7-21.6-11.8 0-21.6 9.8-21.6 21.6z"/>
+	<path id="Layer" class="s0" d="m45 217.7h29.3c2.2 0 4-1.8 4-4v-112c0-2.2-1.8-4-4-4h-29.3c-2.3 0-4 1.8-4 4v112c0 2.2 1.7 4 4 4z"/>
+</svg>

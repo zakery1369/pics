@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>Dockerr-svg</title>
+	<defs>
+		<image  width="256" height="256" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAAAAApWe5zwAAAAJ0Uk5TAP9bkSK1AAABSElEQVR4nO3asQ3DIBAFUEcpUmYERmE0MppHyQgpXViQYETsKNz/SLZcfbf3irvDFZ9hWD6f/r552Hy3/3pKzw0ILRDX+rVVT2n8gnsbvL6g0eJvm+16SnCG7RxGC2sTRgtrE8ECkfRYuzTWlL8RD1HHMIeoYzgbTHjKOmewQSRTljkvCDzwGsoiwBrKIsAayiIocAhMeE9lUwGB2ANQfVklA3DTedcUwKPIh0EBPKt8WhTAs8qnRYHDYDoAeAzmM0DAIJ4BcP3zUwoICAgICAgICAgICAgICAgICAgINEHA9VNuOD0Gp9z0OgyOuNDef+u+/+Z/f/qwPwEhP2VPTBNQPfZkSRQ4BKZDEjEautHYjgZ/cJV94aO3wdwXgNIIlYawNMYFc/ZGyd4CNYymcbbZ5Vgjc9JjRyhPY336MIA+LeCPE8DzhjeTiHJtW2SnaAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<use id="Layer" href="#img1" x="0" y="0"/>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m196.9 133c-17.2 41.4-53.7 64.1-102.6 64.1-68 0-68-62.2-65.6-71.5h135.7c7.4 0 12.3-2 15.3-3.5-10.4-19.2 3.9-36.5 3.9-36.5 0 0 15.3 8.4 17.3 22.7 18.2-2.9 27.1 5.4 27.1 5.4 0 0-5.4 21.2-31.1 19.3zm-80.4-29.6h20.7v18.7h-20.7zm-24.1 0h20.7v18.8h-20.7zm-24.2 0h20.2v18.7h-20.2zm-24.7 0h20.7v18.8h-20.7zm24.7-22.7h20.2v18.7h-20.2zm24.2 0h20.7v18.8h-20.7zm24.1 0h20.7v18.7h-20.7zm0-22.7h20.7v18.8h-20.7zm24.7 45.3h20.7v18.8h-20.7z"/>
+</svg>
